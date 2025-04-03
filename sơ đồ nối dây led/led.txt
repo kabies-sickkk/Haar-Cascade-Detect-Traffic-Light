@@ -1,0 +1,3 @@
+red led: digital 2
+yellow led: digital 3
+green led: digital 4
